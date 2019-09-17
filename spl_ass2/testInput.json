@@ -1,0 +1,522 @@
+{
+  "threads": 8,
+  "Computers": [
+    {
+      "Type": "A",
+      "Sig Success": "111",
+      "Sig Fail": "222"
+    },
+    {
+      "Type": "B",
+      "Sig Success": "333",
+      "Sig Fail": "444"
+    }
+  ],
+  "Phase 1": [
+    {
+      "Action": "Open Course",
+      "Department": "dep1",
+      "Course": "course1-1",
+      "Space": "10",
+      "Prerequisites": []
+    },
+    {
+      "Action": "Open Course",
+      "Department": "dep1",
+      "Course": "course1-2",
+      "Space": "10",
+      "Prerequisites": []
+    },
+    {
+      "Action": "Open Course",
+      "Department": "dep1",
+      "Course": "course1-3",
+      "Space": "10",
+      "Prerequisites": [
+        "course1-1",
+        "course1-2"
+      ]
+    },
+    {
+      "Action": "Open Course",
+      "Department": "dep1",
+      "Course": "course1-4",
+      "Space": "10",
+      "Prerequisites": []
+    },
+    {
+      "Action": "Open Course",
+      "Department": "dep2",
+      "Course": "course2-1",
+      "Space": "5",
+      "Prerequisites": []
+    },
+    {
+      "Action": "Add Student",
+      "Department": "dep1",
+      "Student": "student1"
+    },
+    {
+      "Action": "Add Student",
+      "Department": "dep1",
+      "Student": "student2"
+    },
+    {
+      "Action": "Add Student",
+      "Department": "dep1",
+      "Student": "student3"
+    },
+    {
+      "Action": "Add Student",
+      "Department": "dep1",
+      "Student": "student4"
+    },
+    {
+      "Action": "Add Student",
+      "Department": "dep1",
+      "Student": "student5"
+    },
+    {
+      "Action": "Add Student",
+      "Department": "dep1",
+      "Student": "student6"
+    },
+    {
+      "Action": "Add Student",
+      "Department": "dep1",
+      "Student": "student7"
+    },
+    {
+      "Action": "Add Student",
+      "Department": "dep1",
+      "Student": "student8"
+    },
+    {
+      "Action": "Add Student",
+      "Department": "dep1",
+      "Student": "student9"
+    },
+    {
+      "Action": "Add Student",
+      "Department": "dep1",
+      "Student": "student10"
+    },
+    {
+      "Action": "Add Student",
+      "Department": "dep1",
+      "Student": "student11"
+    },
+    {
+      "Action": "Add Student",
+      "Department": "dep1",
+      "Student": "student12"
+    },
+    {
+      "Action": "Add Student",
+      "Department": "dep1",
+      "Student": "student13"
+    },
+    {
+      "Action": "Add Student",
+      "Department": "dep2",
+      "Student": "student2-1"
+    },
+    {
+      "Action": "Add Student",
+      "Department": "dep2",
+      "Student": "student2-2"
+    },
+    {
+      "Action": "Add Student",
+      "Department": "dep2",
+      "Student": "student2-3"
+    },
+    {
+      "Action": "Add Student",
+      "Department": "dep2",
+      "Student": "student2-4"
+    },
+    {
+      "Action": "Add Student",
+      "Department": "dep2",
+      "Student": "student2-5"
+    },
+    {
+      "Action": "Add Student",
+      "Department": "dep2",
+      "Student": "student2-6"
+    }
+  ],
+  "Phase 2": [
+    {
+      "Action": "Participate In Course",
+      "Student": "student1",
+      "Course": "course1-1",
+      "Grade": [
+        "100"
+      ]
+    },
+    {
+      "Action": "Participate In Course",
+      "Student": "student2",
+      "Course": "course1-1",
+      "Grade": [
+        "90"
+      ]
+    },
+    {
+      "Action": "Participate In Course",
+      "Student": "student3",
+      "Course": "course1-1",
+      "Grade": [
+        "80"
+      ]
+    },
+    {
+      "Action": "Participate In Course",
+      "Student": "student4",
+      "Course": "course1-1",
+      "Grade": [
+        "70"
+      ]
+    },
+    {
+      "Action": "Participate In Course",
+      "Student": "student5",
+      "Course": "course1-1",
+      "Grade": [
+        "60"
+      ]
+    },
+    {
+      "Action": "Participate In Course",
+      "Student": "student6",
+      "Course": "course1-1",
+      "Grade": [
+        "50"
+      ]
+    },
+    {
+      "Action": "Participate In Course",
+      "Student": "student7",
+      "Course": "course1-1",
+      "Grade": [
+        "40"
+      ]
+    },
+    {
+      "Action": "Participate In Course",
+      "Student": "student8",
+      "Course": "course1-1",
+      "Grade": [
+        "30"
+      ]
+    },
+    {
+      "Action": "Participate In Course",
+      "Student": "student9",
+      "Course": "course1-1",
+      "Grade": [
+        "20"
+      ]
+    },
+    {
+      "Action": "Participate In Course",
+      "Student": "student10",
+      "Course": "course1-1",
+      "Grade": [
+        "100"
+      ]
+    },
+    {
+      "Action": "Participate In Course",
+      "Student": "student1",
+      "Course": "course1-2",
+      "Grade": [
+        "100"
+      ]
+    },
+    {
+      "Action": "Participate In Course",
+      "Student": "student2",
+      "Course": "course1-2",
+      "Grade": [
+        "90"
+      ]
+    },
+    {
+      "Action": "Participate In Course",
+      "Student": "student3",
+      "Course": "course1-2",
+      "Grade": [
+        "80"
+      ]
+    },
+    {
+      "Action": "Participate In Course",
+      "Student": "student4",
+      "Course": "course1-2",
+      "Grade": [
+        "70"
+      ]
+    },
+    {
+      "Action": "Add Spaces",
+      "Course": "course1-2",
+      "Number": "1"
+    },
+    {
+      "Action": "Participate In Course",
+      "Student": "student5",
+      "Course": "course1-2",
+      "Grade": [
+        "60"
+      ]
+    },
+    {
+      "Action": "Participate In Course",
+      "Student": "student1",
+      "Course": "course1-4",
+      "Grade": [
+        "100"
+      ]
+    },
+    {
+      "Action": "Participate In Course",
+      "Student": "student2",
+      "Course": "course1-4",
+      "Grade": [
+        "100"
+      ]
+    },
+    {
+      "Action": "Participate In Course",
+      "Student": "student3",
+      "Course": "course1-4",
+      "Grade": [
+        "100"
+      ]
+    },
+    {
+      "Action": "Unregister",
+      "Student": "student6",
+      "Course": "course1-1"
+    },
+    {
+      "Action": "Unregister",
+      "Student": "student7",
+      "Course": "course1-1"
+    },
+    {
+      "Action": "Unregister",
+      "Student": "student8",
+      "Course": "course1-1"
+    },
+    {
+      "Action": "Close Course",
+      "Department": "dep1",
+      "Course": "course1-4"
+    },
+    {
+      "Action": "Participate In Course",
+      "Student": "student2-1",
+      "Course": "course2-1",
+      "Grade": [
+        "100"
+      ]
+    },
+    {
+      "Action": "Participate In Course",
+      "Student": "student2-2",
+      "Course": "course2-1",
+      "Grade": [
+        "90"
+      ]
+    },
+    {
+      "Action": "Participate In Course",
+      "Student": "student2-3",
+      "Course": "course2-1",
+      "Grade": [
+        "80"
+      ]
+    },
+    {
+      "Action": "Participate In Course",
+      "Student": "student2-4",
+      "Course": "course2-1",
+      "Grade": [
+        "70"
+      ]
+    },
+    {
+      "Action": "Participate In Course",
+      "Student": "student2-5",
+      "Course": "course2-1",
+      "Grade": [
+        "60"
+      ]
+    },
+    {
+      "Action": "Participate In Course",
+      "Student": "student2-6",
+      "Course": "course2-1",
+      "Grade": [
+        "50"
+      ]
+    }
+  ],
+  "Phase 3": [
+    {
+      "Action": "Participate In Course",
+      "Student": "student1",
+      "Course": "course1-3",
+      "Grade": [
+        "100"
+      ]
+    },
+    {
+      "Action": "Participate In Course",
+      "Student": "student2",
+      "Course": "course1-3",
+      "Grade": [
+        "90"
+      ]
+    },
+    {
+      "Action": "Participate In Course",
+      "Student": "student3",
+      "Course": "course1-3",
+      "Grade": [
+        "80"
+      ]
+    },
+    {
+      "Action": "Participate In Course",
+      "Student": "student4",
+      "Course": "course1-3",
+      "Grade": [
+        "70"
+      ]
+    },
+    {
+      "Action": "Participate In Course",
+      "Student": "student5",
+      "Course": "course1-3",
+      "Grade": [
+        "60"
+      ]
+    },
+    {
+      "Action": "Participate In Course",
+      "Student": "student6",
+      "Course": "course1-3",
+      "Grade": [
+        "100"
+      ]
+    },
+    {
+      "Action": "Participate In Course",
+      "Student": "student7",
+      "Course": "course1-3",
+      "Grade": [
+        "90"
+      ]
+    },
+    {
+      "Action": "Participate In Course",
+      "Student": "student8",
+      "Course": "course1-3",
+      "Grade": [
+        "80"
+      ]
+    },
+    {
+      "Action": "Participate In Course",
+      "Student": "student9",
+      "Course": "course1-3",
+      "Grade": [
+        "70"
+      ]
+    },
+    {
+      "Action": "Participate In Course",
+      "Student": "student10",
+      "Course": "course1-3",
+      "Grade": [
+        "60"
+      ]
+    },
+    {
+      "Action": "Register With Preferences",
+      "Student": "student12",
+      "Preferences": [
+        "course1-4",
+        "course1-3",
+        "course1-2",
+        "course1-1"
+      ],
+      "Grade": [
+        "56",
+        "-",
+        "80",
+        "90"
+      ]
+    },
+    {
+      "Action": "Register With Preferences",
+      "Student": "student13",
+      "Preferences": [
+        "course1-4",
+        "course1-3",
+        "course1-2",
+        "course1-1"
+      ],
+      "Grade": [
+        "70",
+        "90",
+        "56",
+        "-"
+      ]
+    },
+    {
+      "Action": "Administrative Check",
+      "Department": "dep1",
+      "Students": [
+        "student1",
+        "student12"
+      ],
+      "Computer": "A",
+      "Conditions": [
+        "course1-1",
+        "course1-2",
+        "course1-3"
+      ]
+    },
+    {
+      "Action": "Administrative Check",
+      "Department": "dep1",
+      "Students": [
+        "student2",
+        "student3"
+      ],
+      "Computer": "A",
+      "Conditions": [
+        "course1-1",
+        "course1-2"
+      ]
+    },
+    {
+      "Action": "Administrative Check",
+      "Department": "dep1",
+      "Students": [
+        "student4",
+        "student11"
+      ],
+      "Computer": "B",
+      "Conditions": [
+        "course1-2"
+      ]
+    }
+  ]
+}

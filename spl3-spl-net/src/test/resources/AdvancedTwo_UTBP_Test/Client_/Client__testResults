@@ -1,0 +1,7 @@
+Client*: Established connection to 127.0.0.1:2222
+Client*: Client Message ===> LOGIN user13 pass
+Client*: ERROR login failed
+Client*: Client Message ===> REGISTER user73 pass country="227CliClient*: ACK registration succeeded
+Client*: Client Message ===> LOGIN user12 pClieClient*: ACK login succeeded
+Client*: Client Message ===> SIGNOUT
+Client*: ACK signout succeeded

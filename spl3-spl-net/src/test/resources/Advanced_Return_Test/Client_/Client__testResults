@@ -1,0 +1,57 @@
+Client*: Established connection to 127.0.0.1:2222
+Client*: Client Message ===> REGISTER user310206.14847061434 pass country="land310206.148470614ClClClient*: ACK registration succeeded
+Client*: Client Message ===> LOGIN user310206.14847061434CliClient*: ACK login succeeded
+Client*: Client Message ===> REQUEST rent "Justice League" 
+CliClient*: BROADCAST movie "Justice League" 234CliClient*: BROADCAST movie "Justice League" 233CliClient*: BROADCAST movie "Justice League" 232CliClient*: BROADCAST movie "Justice League" 231CliClient*: BROADCAST movie "Justice League" 230CliClient*: BROADCAST movie "Justice League" 229CliClient*: BROADCAST movie "Justice League" 228CliClient*: BROADCAST movie "Justice League" 227CliClient*: BROADCAST movie "Justice League" 226CliClient*: BROADCAST movie "Justice League" 225CliClient*: BROADCAST movie "Justice League" 224CliClient*: BROADCAST movie "Justice League" 223CliClient*: BROADCAST movie "Justice League" 222CliClient*: BROADCAST movie "Justice League" 221Client*: BROADCAST movie "Justice League" 220 0
+Client*: BROADCAST movie "Justice League" 221 0
+CliClient*: BROADCAST movie "Justice League" 222CliClient*: BROADCAST movie "Justice League" 221CliClient*: BROADCAST movie "Justice League" 222CliClient*: BROADCAST movie "Justice League" 221CliClient*: BROADCAST movie "Justice League" 220CliClient*: BROADCAST movie "Justice League" 219CliClient*: BROADCAST movie "Justice League" 218CliClient*: BROADCAST movie "Justice League" 217CliClient*: BROADCAST movie "Justice League" 216CliClient*: BROADCAST movie "Justice League" 215CliClient*: BROADCAST movie "Justice League" 214CliClient*: BROADCAST movie "Justice League" 213CliClient*: BROADCAST movie "Justice League" 214CliClient*: BROADCAST movie "Justice League" 213CliClient*: BROADCAST movie "Justice League" 212CliClient*: BROADCAST movie "Justice League" 211CliClient*: BROADCAST movie "Justice League" 210CliClient*: BROADCAST movie "Justice League" 209Client*: BROADCAST movie "Justice League" 210 0
+CliClient*: BROADCAST movie "Justice League" 209CliClient*: BROADCAST movie "Justice League" 208CliClient*: BROADCAST movie "Justice League" 207CliClient*: BROADCAST movie "Justice League" 208CliClient*: BROADCAST movie "Justice League" 207CliClient*: BROADCAST movie "Justice League" 206CliClient*: BROADCAST movie "Justice League" 205CliClient*: BROADCAST movie "Justice League" 204CliClient*: BROADCAST movie "Justice League" 205CliClient*: BROADCAST movie "Justice League" 204CliClient*: BROADCAST movie "Justice League" 203CliClient*: BROADCAST movie "Justice League" 204CliClient*: BROADCAST movie "Justice League" 205CliClient*: BROADCAST movie "Justice League" 204CliClient*: BROADCAST movie "Justice League" 203CliClient*: BROADCAST movie "Justice League" 204CliClient*: BROADCAST movie "Justice League" 205CliClient*: BROADCAST movie "Justice League" 206Client*: BROADCAST movie "Justice League" 207 0
+CliClient*: BROADCAST movie "Justice League" 208CliClient*: BROADCAST movie "Justice League" 209Client*: BROADCAST movie "Justice League" 210 0
+Client*: BROADCAST movie "Justice League" 211 0
+CliClient*: BROADCAST movie "Justice League" 212CliClient*: BROADCAST movie "Justice League" 213CliClient*: BROADCAST movie "Justice League" 214CliClient*: BROADCAST movie "Justice League" 215CliClient*: BROADCAST movie "Justice League" 214Client*: BROADCAST movie "Justice League" 213 0
+CliClient*: BROADCAST movie "Justice League" 212CliClient*: BROADCAST movie "Justice League" 211CliClient*: BROADCAST movie "Justice League" 210CliClient*: BROADCAST movie "Justice League" 209CliClient*: BROADCAST movie "Justice League" 208CliClient*: BROADCAST movie "Justice League" 207CliClient*: BROADCAST movie "Justice League" 206CliClient*: BROADCAST movie "Justice League" 205CliClient*: BROADCAST movie "Justice League" 204CliClient*: BROADCAST movie "Justice League" 203CliClient*: BROADCAST movie "Justice League" 202CliClient*: BROADCAST movie "Justice League" 201CliClient*: BROADCAST movie "Justice League" 200CliClient*: BROADCAST movie "Justice League" 201CliClient*: BROADCAST movie "Justice League" 202CliClient*: BROADCAST movie "Justice League" 201CliClient*: BROADCAST movie "Justice League" 200CliClient*: BROADCAST movie "Justice League" 199CliClient*: BROADCAST movie "Justice League" 198CliClient*: BROADCAST movie "Justice League" 197CliClient*: BROADCAST movie "Justice League" 196CliClient*: BROADCAST movie "Justice League" 195CliClient*: BROADCAST movie "Justice League" 194CliClient*: BROADCAST movie "Justice League" 193CliClient*: BROADCAST movie "Justice League" 194CliClient*: BROADCAST movie "Justice League" 193CliClient*: BROADCAST movie "Justice League" 192CliClient*: BROADCAST movie "Justice League" 191CliClient*: BROADCAST movie "Justice League" 190CliClient*: BROADCAST movie "Justice League" 189CliClient*: BROADCAST movie "Justice League" 188CliClient*: BROADCAST movie "Justice League" 187CliClient*: BROADCAST movie "Justice League" 186CliClient*: BROADCAST movie "Justice League" 185CliClient*: BROADCAST movie "Justice League" 184CliClient*: BROADCAST movie "Justice League" 185CliClient*: BROADCAST movie "Justice League" 184Client*: BROADCAST movie "Justice League" 183 0
+Client*: BROADCAST movie "Justice League" 184 0
+Client*: BROADCAST movie "Justice League" 183 0
+Client*: BROADCAST movie "Justice League" 182 0
+Client*: BROADCAST movie "Justice League" 181 0
+Client*: BROADCAST movie "Justice League" 180 0
+Client*: BROADCAST movie "Justice League" 179 0
+Client*: BROADCAST movie "Justice League" 180 0
+Client*: BROADCAST movie "Justice League" 181 0
+Client*: BROADCAST movie "Justice League" 182 0
+Client*: BROADCAST movie "Justice League" 181 0
+Client*: ACK rent "Justice League" success
+Client*: Client Message ===> REQUEST return "Justice League" 
+CliClient*: BROADCAST movie "Justice League" 182Client*: BROADCAST movie "Justice League" 183 0
+Client*: BROADCAST movie "Justice League" 184 0
+Client*: BROADCAST movie "Justice League" 185 0
+CliClient*: BROADCAST movie "Justice League" 186CliClient*: BROADCAST movie "Justice League" 187CliClient*: BROADCAST movie "Justice League" 188CliClient*: BROADCAST movie "Justice League" 189CliClient*: BROADCAST movie "Justice League" 190CliClient*: BROADCAST movie "Justice League" 191CliClient*: BROADCAST movie "Justice League" 192CliClient*: BROADCAST movie "Justice League" 193CliClient*: BROADCAST movie "Justice League" 194CliClient*: BROADCAST movie "Justice League" 195CliClient*: BROADCAST movie "Justice League" 196CliClient*: BROADCAST movie "Justice League" 197CliClient*: BROADCAST movie "Justice League" 198CliClient*: BROADCAST movie "Justice League" 199CliClient*: BROADCAST movie "Justice League" 200CliClient*: BROADCAST movie "Justice League" 201CliClient*: BROADCAST movie "Justice League" 202CliClient*: BROADCAST movie "Justice League" 203CliClient*: BROADCAST movie "Justice League" 204CliClient*: BROADCAST movie "Justice League" 205CliClient*: BROADCAST movie "Justice League" 206CliClient*: BROADCAST movie "Justice League" 207Client*: BROADCAST movie "Justice League" 208 0
+Client*: BROADCAST movie "Justice League" 209 0
+CliClient*: BROADCAST movie "Justice League" 210CliClient*: BROADCAST movie "Justice League" 211CliClient*: BROADCAST movie "Justice League" 212CliClient*: BROADCAST movie "Justice League" 213CliClient*: BROADCAST movie "Justice League" 214CliClient*: BROADCAST movie "Justice League" 215Client*: BROADCAST movie "Justice League" 216 0
+CliClient*: BROADCAST movie "Justice League" 217Client*: BROADCAST movie "Justice League" 218 0
+Client*: BROADCAST movie "Justice League" 219 0
+CliClient*: BROADCAST movie "Justice League" 220CliClient*: BROADCAST movie "Justice League" 221CliClient*: BROADCAST movie "Justice League" 222CliClient*: BROADCAST movie "Justice League" 223Client*: BROADCAST movie "Justice League" 224 0
+CliClient*: BROADCAST movie "Justice League" 225Client*: BROADCAST movie "Justice League" 226 0
+CliClient*: BROADCAST movie "Justice League" 227Client*: BROADCAST movie "Justice League" 228 0
+Client*: BROADCAST movie "Justice League" 229 0
+CliClient*: BROADCAST movie "Justice League" 230CliClient*: BROADCAST movie "Justice League" 231Client*: BROADCAST movie "Justice League" 232 0
+CliClient*: BROADCAST movie "Justice League" 233CliClient*: BROADCAST movie "Justice League" 234Client*: BROADCAST movie "Justice League" 235 0
+CliClient*: BROADCAST movie "Justice League" 236CliClient*: BROADCAST movie "Justice League" 237Client*: BROADCAST movie "Justice League" 238 0
+CliClient*: BROADCAST movie "Justice League" 239Client*: BROADCAST movie "Justice League" 240 0
+Client*: BROADCAST movie "Justice League" 241 0
+Client*: BROADCAST movie "Justice League" 242 0
+Client*: BROADCAST movie "Justice League" 243 0
+Client*: BROADCAST movie "Justice League" 244 0
+Client*: BROADCAST movie "Justice League" 245 0
+Client*: BROADCAST movie "Justice League" 246 0
+Client*: BROADCAST movie "Justice League" 247 0
+Client*: BROADCAST movie "Justice League" 248 0
+Client*: BROADCAST movie "Justice League" 249 0
+Client*: BROADCAST movie "Justice League" 250 0
+Client*: ACK return "Justice League" success
+Client*: Client Message ===> SIGNOUT
+Client*: ACK signout succeeded
+eturn "Justice League" success
+Client*: Client Message ===> SIGNOUT
+Client*: BROADCAST movie "Justice League" 250 0
+Client*: ACK signout succeeded
